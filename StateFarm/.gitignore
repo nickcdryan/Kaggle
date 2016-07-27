@@ -1,0 +1,6 @@
+### IPythonNotebook ###
+# Temporary data
+.ipynb_checkpoints/
+
+# Images dataset
+/imgs
